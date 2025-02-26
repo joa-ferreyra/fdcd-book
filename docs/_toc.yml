@@ -8,3 +8,4 @@ parts:
       - file: unidades/u1-planilla-calculo/unidad-1-planilla-calculo.md
       - file: unidades/u1-planilla-calculo/test.ipynb
       - file: unidades/u2-manipulacion-datos/unidad-2-manipulacion-datos.md
+      - file: unidades/slides/presentacion-materia.qmd
