@@ -16,6 +16,9 @@ jobs:
                   cache: "pip"
             - name: Install Dependencies
               run: pip install -r requirements.txt
+            - name: Download files
+              run: |
+                 wget https://github.com/joa-ferreyra/fdcd-book/unidades/slides/presentacion_materia.html
             - name: Build Jupyter Book Documentation
               run: |
                   jupyter-book build . --config docs/_config.yml --toc docs/_toc.yml
