@@ -8,4 +8,7 @@ parts:
       - file: unidades/u1-planilla-calculo/unidad-1-planilla-calculo.md
       - file: unidades/u1-planilla-calculo/test.ipynb
       - file: unidades/u2-manipulacion-datos/unidad-2-manipulacion-datos.md
+  - caption: Parte 2
+    numbered: True
+    chapters:
       - file: unidades/u3-prueba/hola.md
