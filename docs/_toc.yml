@@ -12,3 +12,7 @@ parts:
     numbered: True
     chapters:
       - file: unidades/u3-prueba/hola.md
+  - caption: Slides
+    numbered: True
+    chapters:
+      - file: unidades/slides/slides.md
