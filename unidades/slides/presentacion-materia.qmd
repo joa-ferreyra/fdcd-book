@@ -1,0 +1,85 @@
+---
+title: "FUNDAMENTOS DE <br>CIENCIA DE DATOS"
+subtitle: ORGANIZACIÓN DE LA MATERIA - MODALIDAD DE CURSADO
+title-slide-attributes: 
+  data-background-color: black
+  data-background-image:  _extensions/positconfslides/assets/backgrounds/content-light.svg
+  data-background-size: contain
+format:
+  positconfslides-revealjs: 
+    chalkboard: true
+    slide-number: c/t
+    code-copy: true
+    center-title-slide: false
+    code-link: true
+    code-overflow: wrap
+    highlight-style: a11y
+    width: "1600"
+    height: "900"
+    filters:
+      - positconfslides
+---
+
+## Cursado de la materia - Comisión C22 {.content-light}
+
+2 clases semanales:
+
+- **Lunes 18 hs.** - Presencial, en Lab. 2do Piso (Pellegrini) 
+
+- **Jueves 18 hs.** - Virtual (link en el Campus Virtual)
+
+## Cursado de la materia {.content-light}
+
+- Cualquier estudiante que lo desee puede cursar la materia.
+
+- No obstante, sólo podrán acceder a la promoción aquellos/as estudiantes que cuenten con las asignaturas correlativas aprobadas (**Cálculo + Programación II**).
+
+## Actividades evaluativas {.content-light}
+
+Durante el cursado de Fundamentos se realizarán dos actividades evaluativas:
+
+- **Trabajo Práctico.** Abarca las primeras 4 unidades. A entregar en grupos de a 2 (dos) estudiantes (**semana del 12/05**).
+
+- **Parcial integrador individual.** Sobre el final del semestre, se tomará un parcial integrador (**Lunes 9/06**) y su respectivo recuperatorio (**Lunes 23/06**).
+
+## Promoción de la asignatura {.content-light}
+
+Para promover la materia se necesita:
+
+- Tener las correlativas aprobadas (Cálculo + Programación II).
+
+- Aprobar el Trabajo Práctico.
+
+- Aprobar el parcial integrador (o su recuperatorio) de final de semestre.
+
+El parcial integrador sólo podrá rendirse si el/la estudiante aprobó el Trabajo Práctico. Caso contrario, queda en condición de libre. 
+
+## Examen final para estudiantes en condición de libres {.content-light}
+
+- Incluye tanto la entrega del Trabajo Práctico como un examen integrador teórico-práctico en el que se evaluará la totalidad de los contenidos de la asignatura.
+
+- El Trabajo Práctico deberá ser entregado en forma individual a través del Campus Virtual y, en caso de que esté aprobado, el día de la mesa el/la estudiante deberá realizar una breve defensa oral del mismo y trabajará luego en la resolución del examen integrador.
+
+## La Ciencia de Datos
+[**"La profesión más sexy del siglo XXI"**]{style="color:#99004c;"} (*Harvard Business Review*)
+
+![](pictures/data_science.png){fig-align='center'}
+
+## La Ciencia de Datos
+
+\
+
+[**OBTENCIÓN DE DATOS**]{style="background-color:#45A4B0; color:white"}: recopilación de datos de todos los orígenes relevantes a través de diversos métodos.
+
+\
+
+[**PROCESAMIENTO DE DATOS** (*data cleaning/data wrangling*)]{style="background-color:#172121; color:white;"}
+
+\
+
+[**ANÁLISIS DE DATOS** (exploratorio + modelado predictivo)]{style="background-color:#444554; color:white;"}
+
+\
+
+[**COMUNICACIÓN DE RESULTADOS**]{style="background-color:#DD7373; color:white;"}: la info de valor se presenta en forma de informes/visualizaciones que facilitan su comprensión.
+
